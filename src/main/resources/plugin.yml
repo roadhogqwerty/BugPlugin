@@ -1,0 +1,4 @@
+name: BugPlugin
+version: '${project.version}'
+main: com.github.roadhog.qwerty.bugplugin.BugPlugin
+api-version: 1.18
